@@ -6,5 +6,10 @@ The structure should include projects, brief descriptions of them, and an indica
 
 | Markdown              | tables                 | can be                      |
 | :-------------------- | ---------------------: |:---------------------------:|
-
 |     aligned left      |     aligned right      |      and centered           |
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
