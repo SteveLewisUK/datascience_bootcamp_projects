@@ -22,3 +22,5 @@ To solve this challenge, I choose python 3.8.2.
 I break down the problem into two important tasks.
 
     To Read the dataset and extract the product, year and company reported in each consumer complaint.
+    
+
