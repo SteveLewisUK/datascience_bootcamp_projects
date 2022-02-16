@@ -1,9 +1,9 @@
 # Prediction Models for Used Car Values
 
 ### Contents
-1. [Objective](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/predicting_used_car_values/README.md#objective)\
-2. [Data](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/predicting_used_car_values/README.md#data)\
-3. [Method and Tools Used](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/predicting_used_car_values/README.md#heading-level-4)\
+1. [Objective](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/predicting_used_car_values/README.md#objective)
+2. [Data](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/predicting_used_car_values/README.md#data)
+3. [Method and Tools Used](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/predicting_used_car_values/README.md#method-and-tools-used)
 4. [Conclusions](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/predicting_used_car_values/README.md#heading-level-4)
 
 
