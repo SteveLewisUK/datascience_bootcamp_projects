@@ -1,6 +1,6 @@
 # Practicum by Yandex Data Science Bootcamp
 ## Portfolio of Selected Projects
-This repository contains a selection of the projects I worked on during the Practicum by Yandex Data Science bootcamp (April 2021 to Jan 2022).
+This repository contains a selection of my projects from the Practicum by Yandex Data Science bootcamp (April 2021 to Jan 2022).
 
 |**Folder Name** | predicting_used_car_values|
 |:------------- | :----------|
