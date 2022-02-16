@@ -9,16 +9,34 @@
 ### Objectives
 'Rusty Bargain' is a used car sales service.  In order to attract new customers, it wished to develop an app for customers to quickly find out the market value of their car.
 
-The objective of this project was to train a number of models to predict car values.  The models were to be evaluated according to:
+The objective of this project was to train and compare a number of models with various hyperparameters to predict car values.  In particular to compare gradient boosting methods with Linear Regression (as a sanity check), Random Forest Regression and Decision Tree Regression.  The models were to be evaluated according to:
 - The time required for training
-- The speed of the prediction
-- The quality of the prediction.
-
-
+- The speed of the predictions
+- The quality of the predictions (the RMSE metric was used to evaluate the models).
 
 
 ### Data
-xxxxxxxxxxx
+|**Features** |  |
+|:------------- | :----------|
+|DateCrawled |— date profile was downloaded from the database|
+|VehicleType |— vehicle body type|
+|RegistrationYear |— vehicle registration year|
+|Gearbox |— gearbox type|
+|Power |— power (hp)|
+|Model |— vehicle model|
+|Mileage |— mileage (measured in km due to dataset's regional specifics)|
+|RegistrationMonth |— vehicle registration month|
+|FuelType |— fuel type|
+|Brand |— vehicle brand|
+|NotRepaired |— vehicle repaired or not|
+|DateCreated |— date of profile creation|
+|NumberOfPictures |— number of vehicle pictures|
+|PostalCode |— postal code of profile owner (user)|
+|LastSeen |— date of the last activity of the user|
+
+Target:
+Price — price (Euro)
+
 
 ### Method and Tools Used
 xxxxxxxxxxx
