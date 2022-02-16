@@ -2,11 +2,11 @@
 ## Portfolio of Selected Projects
 This repository contains a selection of the projects I worked on during the Practicum by Yandex Data Science bootcamp (April 2021 to Jan 2022).
 
-|**Folder Name**: |predicting_used_car_values|
+|**Folder Name** |predicting_used_car_values|
 | ------------- | ------------- |
-|**Project Description**:| To measure the speed and quality of predictions of the market value of used cars|
-|**Key techniques and models**:| One Hot Encoding, Ordinal Encoding, Linear Regression, Random Forest Regression, Decision Tree Regression, Gradient Boosting, LGBMRegressor, XGBoost, CatBoost, plotting features importance, measuring RMSE|
-|**Folder contains**:| prediction models for used car values.ipynb and README.md|
+|**Project Description**| To measure the speed and quality of predictions of the market value of used cars|
+|**Key techniques and models**| One Hot Encoding, Ordinal Encoding, Linear Regression, Random Forest Regression, Decision Tree Regression, Gradient Boosting, LGBMRegressor, XGBoost, CatBoost, plotting features importance, measuring RMSE|
+|**Folder contains**| prediction models for used car values.ipynb and README.md|
 
 
 **Folder Name**: predicting_used_car_values\
