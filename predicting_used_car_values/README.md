@@ -18,28 +18,30 @@ The objective of this project was to train and compare a number of models with v
 ### Data
 |**Features** |  |
 |:------------- | :----------|
-|DateCrawled |— date profile was downloaded from the database|
-|VehicleType |— vehicle body type|
-|RegistrationYear |— vehicle registration year|
-|Gearbox |— gearbox type|
-|Power |— power (hp)|
-|Model |— vehicle model|
-|Mileage |— mileage (measured in km due to dataset's regional specifics)|
-|RegistrationMonth |— vehicle registration month|
-|FuelType |— fuel type|
-|Brand |— vehicle brand|
-|NotRepaired |— vehicle repaired or not|
-|DateCreated |— date of profile creation|
-|NumberOfPictures |— number of vehicle pictures|
-|PostalCode |— postal code of profile owner (user)|
-|LastSeen |— date of the last activity of the user|
+|DateCrawled | Date profile was downloaded from the database|
+|VehicleType | Vehicle body type|
+|RegistrationYear | Vehicle registration year|
+|Gearbox | Gearbox type|
+|Power | Power (hp)|
+|Model | Vehicle model|
+|Mileage | Mileage (measured in km)|
+|RegistrationMonth | Vehicle registration month|
+|FuelType | Fuel type|
+|Brand | Vehicle brand|
+|NotRepaired | Vehicle repaired or not|
+|DateCreated | Date of profile creation|
+|NumberOfPictures | Number of vehicle pictures|
+|PostalCode | Postal code of profile owner (user)|
+|LastSeen | Date of the last activity of the user|
 
-Target:
-Price — price (Euro)
+|**Target** |  |
+|:------------- | :----------|
+|Price | Price in Euros|
 
 
 ### Method and Tools Used
 xxxxxxxxxxx
+
 
 ### Conclusions
 xxxxxxxxxxx
