@@ -8,9 +8,9 @@
 
 
 ### Objectives
-The Sweet Lift Taxi company needs more drivers during peak hours. It has collected historical data on taxi orders at airports and it wishes to predict the amount of taxi orders for the next hour.
+The Sweet Lift Taxi company needed more drivers during peak hours. It collected historical data on taxi orders at airports and it wished to be able to predict the amount of taxi orders for the next hour.
 
-The objective of this project is to train and compare different models with different hyperparameters to make these predictions. The stated aim is to acheive an RMSE metric on the test set of not more than 48.<br />
+The objective of this project was to train and compare different models with different hyperparameters to make these predictions. The stated aim was to acheive an RMSE metric on the test set of less than 48.<br />
 
 
 ### Data
