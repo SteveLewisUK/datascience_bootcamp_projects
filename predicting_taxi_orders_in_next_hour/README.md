@@ -14,7 +14,7 @@ The objective of this project is to train and compare different models with diff
 
 
 ### Data
-
+|**Data** |  |
 |:------------- | :----------|
 |datetime | timestamp (to 10 minutes) |
 |num_orders | number of orders |
