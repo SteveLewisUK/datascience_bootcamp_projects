@@ -24,11 +24,11 @@ There were 26,496 rows in the dataset which constitued the 6 month period from M
 
 
 ### Method and Tools Used
-***Step 1***: Resampled the data from 10 minute interval to intervals of 1 hour
-***Step 2***: Ran 'differencing' and 'decomposition' checks to ascertain whether the data was stationary, ie has constant mean and variance.  This is a requirement for training models.
-***Step 3***: Created new features from the data with which to train the models: Datetime features, Lagged features, Rolling window statistics, Expanding window statistics
-***Step 4***: Split the data into training, validation and test sets and trained Linear, Decision Tree and Random Forest Regression models. Varied hyperparameters to minimise RMSE.
-***Step 5***: Trained two models that use Gradient Boosting: XGBoost and Catboost and plot the importance of the features in the models.
+***Step 1***: Resampled the data from 10 minute interval to intervals of 1 hour\
+***Step 2***: Ran 'differencing' and 'decomposition' checks to ascertain whether the data was stationary, ie has constant mean and variance.  This is a requirement for training models\
+***Step 3***: Created new features from the data with which to train the models: Datetime features, Lagged features, Rolling window statistics, Expanding window statistics\
+***Step 4***: Split the data into training, validation and test sets and trained Linear, Decision Tree and Random Forest Regression models. Varied hyperparameters to minimise RMSE\
+***Step 5***: Trained two models that use Gradient Boosting: XGBoost and Catboost and plot the importance of the features in the models\
 ***Step 5***: Compared how each of the models performed on the test set data.<br />
 
 
