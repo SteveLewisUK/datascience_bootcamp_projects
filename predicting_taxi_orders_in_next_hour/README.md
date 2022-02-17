@@ -3,7 +3,7 @@
 ### Contents
 1. [Objectives](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/predicting_taxi_orders_in_next_hour/README.md#objectives)
 2. [Data](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/predicting_taxi_orders_in_next_hour/README.md#data)
-3. [Method and Tools Used]()
+3. [Method and Tools Used](https://github.com/SteveLewisUK/datascience_bootcamp_projects/tree/main/predicting_taxi_orders_in_next_hour#method-and-tools-used)
 4. [Conclusions]()<br />
 
 
@@ -14,7 +14,7 @@ The objective of this project was to train and compare different models with dif
 
 
 ### Data
-Time series data as follows:
+Time series data was available as follows:
 |**Feature** | **Description** |
 |:------------- | :----------|
 |datetime | Timestamp (accurate to 10 minutes) |
