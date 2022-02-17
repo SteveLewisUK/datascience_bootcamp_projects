@@ -4,9 +4,9 @@ This repository contains a selection of my projects from the Practicum by Yandex
 
 |**Project Folder 1** | predicting_used_car_values|
 |:------------- | :----------|
-|**Project Description**| To measure the speed and quality of predictions of the market value of used cars|
-|**Key Techniques and Models Used**| One Hot Encoding, Ordinal Encoding, Linear Regression, Random Forest Regression, Decision Tree Regression, Gradient Boosting, LGBMRegressor, XGBoost, CatBoost, plotting the importance of features, measuring RMSE|
-|**Folder Contains**| predicting_used_car_values.ipynb<br /> README.md|
+|Project Description| To measure the speed and quality of predictions of the market value of used cars|
+|Key Techniques and Models Used| One Hot Encoding, Ordinal Encoding, Linear Regression, Random Forest Regression, Decision Tree Regression, Gradient Boosting, LGBMRegressor, XGBoost, CatBoost, plotting the importance of features, measuring RMSE|
+|Folder Contains| predicting_used_car_values.ipynb<br /> README.md|
 <br />
 
 |**Project Folder 2** | predicting_taxi_orders_in_next_hour|
