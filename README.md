@@ -12,23 +12,23 @@ This repository contains a selection of my projects from the Practicum by Yandex
 
 |**Project Folder 2** | predicting_taxi_orders_in_next_hour|
 |:------------- | :----------|
-|**Project Description**| To predict the amount of taxi orders for the following hour using time series data|
-|**Key Techniques and Models Used**| Resampling time series data, Differencing, Decomposing the data into Trend, Seasonal and Residual components, creating new features including lag feature, rolling and window statistics, Linear Regression, Decision Tree Regression, Random Forest Regression, XGBoost Regression, CatBoost Regression, measuring RMSE|
-|**Folder Contains**| predicting_taxi_orders_in_next_hour.ipynb<br /> README.md|
+|Project Description| To predict the amount of taxi orders for the following hour using time series data|
+|Key Techniques and Models Used| Resampling time series data, Differencing, Decomposing the data into Trend, Seasonal and Residual components, creating new features including lag feature, rolling and window statistics, Linear Regression, Decision Tree Regression, Random Forest Regression, XGBoost Regression, CatBoost Regression, measuring RMSE|
+|Folder Contains| predicting_taxi_orders_in_next_hour.ipynb<br /> README.md|
 <br />
 
 |**Project Folder 3** | folder_name|
 |:------------- | :----------|
-|**Project Description**| xxxx|
-|**Key Techniques and Models Used**| Resampling time series data, Differencing, Decomposing the data into Trend, Seasonal and Residual components, creating new features including lag feature, rolling and window statistics, Linear Regression, Decision Tree Regression, Random Forest Regression, XGBoost Regression, CatBoost Regression, measuring RMSE|
-|**Folder Contains**| xxxxx.ipynb<br /> README.md|
+|Project Description| xxxx|
+|Key Techniques and Models Used| Resampling time series data, Differencing, Decomposing the data into Trend, Seasonal and Residual components, creating new features including lag feature, rolling and window statistics, Linear Regression, Decision Tree Regression, Random Forest Regression, XGBoost Regression, CatBoost Regression, measuring RMSE|
+|Folder Contains| xxxxx.ipynb<br /> README.md|
 <br />
 
 |**Project Folder 4** | folder_name|
 |:------------- | :----------|
-|**Project Description**| xxxxx|
-|**Key Techniques and Models Used**| Resampling time series data, Differencing, Decomposing the data into Trend, Seasonal and Residual components, creating new features including lag feature, rolling and window statistics, Linear Regression, Decision Tree Regression, Random Forest Regression, XGBoost Regression, CatBoost Regression, measuring RMSE|
-|**Folder Contains**| xxxxx.ipynb<br /> README.md|
+|Project Description| xxxxx|
+|Key Techniques and Models Used| Resampling time series data, Differencing, Decomposing the data into Trend, Seasonal and Residual components, creating new features including lag feature, rolling and window statistics, Linear Regression, Decision Tree Regression, Random Forest Regression, XGBoost Regression, CatBoost Regression, measuring RMSE|
+|Folder Contains| xxxxx.ipynb<br /> README.md|
 <br />
 
 
