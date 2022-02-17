@@ -2,37 +2,28 @@
 ## Portfolio of Selected Projects
 This repository contains a selection of my projects from the Practicum by Yandex Data Science bootcamp (April 2021 to Jan 2022).
 
-|**Project Folder** | predicting_used_car_values|
+|**Project Folder 1** | predicting_used_car_values|
 |:------------- | :----------|
 |**Project Description**| To measure the speed and quality of predictions of the market value of used cars|
-|**Key Techniques and Models Used**| One Hot Encoding, Ordinal Encoding, Linear Regression, Random Forest Regression, Decision Tree Regression, Gradient Boosting, LGBMRegressor, XGBoost, CatBoost, plotting features importance, measuring RMSE|
+|**Key Techniques and Models Used**| One Hot Encoding, Ordinal Encoding, Linear Regression, Random Forest Regression, Decision Tree Regression, Gradient Boosting, LGBMRegressor, XGBoost, CatBoost, plotting the importance of features, measuring RMSE|
 |**Folder Contains**| predicting_used_car_values.ipynb<br /> README.md|
 
-|**Project Folder** | folder_name|
+|**Project Folder 2** | predicting_taxi_orders_in_next_hour|
 |:------------- | :----------|
-|**Project Description**| project_desc|
-|**Key Techniques and Models Used**| key techniques and models|
-|**Folder Contains**| xxxxxx.ipynb<br /> README.md|
+|**Project Description**| To predict the amount of taxi orders for the following hour using time series data|
+|**Key Techniques and Models Used**| Resampling time series data, Differencing, Decomposing the data into Trend, Seasonal and Residual components, creating new features including lag feature, rolling and window statistics, Linear Regression, Decision Tree Regression, Random Forest Regression, XGBoost Regression, CatBoost Regression, measuring RMSE|
+|**Folder Contains**| predicting_taxi_orders_in_next_hour.ipynb<br /> README.md|
 
+|**Project Folder 3** | folder_name|
+|:------------- | :----------|
+|**Project Description**| xxxx|
+|**Key Techniques and Models Used**| Resampling time series data, Differencing, Decomposing the data into Trend, Seasonal and Residual components, creating new features including lag feature, rolling and window statistics, Linear Regression, Decision Tree Regression, Random Forest Regression, XGBoost Regression, CatBoost Regression, measuring RMSE|
+|**Folder Contains**| xxxxx.ipynb<br /> README.md|
 
-
-**Folder Name**: predicting_used_car_values\
-**Project Description**: To measure the speed and quality of predictions of the market value of used cars\
-**Key techniques and models**: One Hot Encoding, Ordinal Encoding, Linear Regression, Random Forest Regression, Decision Tree Regression, Gradient Boosting, LGBMRegressor, XGBoost, CatBoost, plotting features importance, measuring RMSE.\
-**Folder contains**: rediction models for used car values.ipynb and README.md
-
-
-| Folder Name  | Contents 1 | Contents 2 |Description |
-| ------------- | ------------- |------------- |
-| predicting_used_car_values  | Prediction models for used car values.ipynb  |README.md  |Data Processing,   |
-
-
-There must be a README.md file containing the repository structure in the root of the repository. 
-The structure should include projects, brief descriptions of them, and an indication of what each folder contains.
-
-| Markdown              | tables                 | can be                      |
-| :-------------------- | ---------------------: |:---------------------------:|
-|     aligned left      |     aligned right      |      and centered           |
-
+|**Project Folder 4** | folder_name|
+|:------------- | :----------|
+|**Project Description**| xxxxx|
+|**Key Techniques and Models Used**| Resampling time series data, Differencing, Decomposing the data into Trend, Seasonal and Residual components, creating new features including lag feature, rolling and window statistics, Linear Regression, Decision Tree Regression, Random Forest Regression, XGBoost Regression, CatBoost Regression, measuring RMSE|
+|**Folder Contains**| xxxxx.ipynb<br /> README.md|
 
 
