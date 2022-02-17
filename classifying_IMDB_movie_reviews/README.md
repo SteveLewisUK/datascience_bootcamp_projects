@@ -38,7 +38,7 @@ There were 47,331 rows in the dataset.<br />
 ***Step 3***: Converted the text data into numeric data for model training by calculating TF-IDF vectors. Also Vectorised the Test data\
 ***Step 4***: Trained Logistic Regression model with these TF-IDF values for both the NTLK and the SpaCy data. Trained LGMB Classifier with SpaCy and TF-IDF\
 ***Step 5***: Used BERT to get Word Embeddings from the texts. Used these to train a further Logistic Regression Model\
-***Step 6***: Plotted F1 Score, ROC Curves and Precision/Recall for each model. Comparede models based on F1 Score.<br />
+***Step 6***: Plotted F1 Score, ROC Curves and Precision/Recall for each model. Compareed models based on F1 Score.<br />
 
 
 ### Conclusions
