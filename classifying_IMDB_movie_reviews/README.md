@@ -8,9 +8,9 @@
 
 
 ### Objectives
-*The Film Junky Union*, a new community for classic movie enthusiasts, is developing a system for filtering and categorizing movie reviews. 
+*The Film Junky Union*, a new community for classic movie enthusiasts, wished to develop a system for filtering and categorising movie reviews. 
 
-The objective of this project was to train and compare models to classify positive and negative reviews using a dataset of IMBD movie reviews with polarity labelling. The models needs to have an F1 score of at least 0.85.<br />
+The objective of this project was to train and compare models to classify positive and negative reviews using a dataset of IMBD movie reviews with polarity labelling. The models needed to have an F1 score of at least 0.85.<br />
 
 
 ### Data
@@ -33,11 +33,11 @@ There were 47,331 rows in the dataset.<br />
 
 
 ### Method and Tools Used
-***Step 1***: Exploratory Data Analysis and visualiation; Horizontal Bar Plot, Stacked Bar Plot, KDE Plot (re-indexed axes to account for years with no movies or reviews)
-***Step 2***: Normalised text including using Regular Expressions. Tokenised and Lemmatised text using the NTLK (Natural Language Toolkit) and the SpaCy libraries
-***Step 3***: Converted the text data into numeric data for model training by calculating TF-IDF vectors. Also Vectorised the Test data.
-***Step 4***: Trained Logistic Regression model with these TF-IDF values for both the NTLK and the SpaCy data. Trained LGMB Classifier with SpaCy and TF-IDF
-***Step 5***: Used BERT to get Word Embeddings from the texts. Used these to train a further Logistic Regression Model
+***Step 1***: Exploratory Data Analysis and visualiation; Horizontal Bar Plot, Stacked Bar Plot, KDE Plot (re-indexed axes to account for years with no movies or reviews)\
+***Step 2***: Normalised text including using Regular Expressions. Tokenised and Lemmatised text using the NTLK (Natural Language Toolkit) and the SpaCy libraries\
+***Step 3***: Converted the text data into numeric data for model training by calculating TF-IDF vectors. Also Vectorised the Test data\
+***Step 4***: Trained Logistic Regression model with these TF-IDF values for both the NTLK and the SpaCy data. Trained LGMB Classifier with SpaCy and TF-IDF\
+***Step 5***: Used BERT to get Word Embeddings from the texts. Used these to train a further Logistic Regression Model\
 ***Step 6***: Plotted F1 Score, ROC Curves and Precision/Recall for each model. Comparede models based on F1 Score.<br />
 
 
