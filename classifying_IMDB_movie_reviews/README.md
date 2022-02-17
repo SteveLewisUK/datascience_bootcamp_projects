@@ -3,7 +3,7 @@
 ### Contents
 1. [Objectives](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/classifying_IMDB_movie_reviews/README.md#objectives)
 2. [Data](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/classifying_IMDB_movie_reviews/README.md#data)
-3. [Method and Tools Used]()
+3. [Method and Tools Used](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/classifying_IMDB_movie_reviews/README.md#method-and-tools-used)
 4. [Conclusions]()<br />
 
 
