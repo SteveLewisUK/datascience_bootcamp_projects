@@ -47,16 +47,13 @@ There were 16,715 rows in the dataset.  Data for 2016 may be incomplete<br />
 - There is a positive correlation between critic_score and total_sales of 0.406 but no correlation between user_score and total_sales. Critics' reviews do effect sales, but user reviews do not. 
 - The most profitable genres are 'Action'. 'Sports' and 'Shooter'. The genres with the lowest sales are 'Puzzle', 'Adventure' and 'Strategy'.
 
-<u>International Research<u>:
+#### International Research:
   
-The X360 is the most popular platform in North America and it is the 3rd most popular in the EU, however it does not rank in the top 5 in Japan. The PS2 is popular in all three territories, but the PS3 does not feature in the top 5 in Japan while it does in both North America and the EU. There are two platforms that appear in the top 5 in Japan (SNES and 3DS) which do not appear in the top 5 for North America and the EU Countries.
+- The X360 is the most popular platform in North America and it is the 3rd most popular in the EU, however it does not rank in the top 5 in Japan. The PS2 is popular in all three territories, but the PS3 does not feature in the top 5 in Japan while it does in both North America and the EU. There are two platforms that appear in the top 5 in Japan (SNES and 3DS) which do not appear in the top 5 for North America and the EU Countries.
+- In North America and Europe, Action, Sports and Shooter games are the 3 most popular. In Japan the most popular genre is 'Role-Playing' games which do not feature in the top 5 genres of either North America or Europe.
+- Games with the rating 'E' rating (meaning 'Everyone; ie the content is suitable for all ages) are most popular in North America and Europe. In Japan this seems not to be the case as many games with no rating at all (which we have categorised as 'none' sell over 4 times more than games with an 'E' rating.)
 
-In North America and Europe, Action, Sports and Shooter games are the 3 most popular. In Japan the most popular genre is 'Role-Playing' games which do not feature in the top 5 genres of either North America or Europe.
+#### Hypothesis Testing:
 
-Games with the rating 'E' rating (meaning 'Everyone; ie the content is suitable for all ages) are most popular in North America and Europe. In Japan this seems not to be the case as many games with no rating at all (which we have categorised as 'none' sell over 4 times more than games with an 'E' rating.)
-
-<u>Hypothesis Testing<u>:
-
-I compared the average user ratings of the Xbox One and the PC platforms to test if they are the same. This was a 2 sided test with data from two independent data sources. I found the p-value to be very small, which meant that if the means of the two datasets were indeed the same, only around a 0.000004 of the values would have the same mean. That is, there is a very small probability of them randomly being the same. This probability is low enough to conclude that the null hypothesis can be rejected; that the average user scores of these two platforms are equal.
-
-I also compared the average user ratings for the Action and Sports genres to test if they are the same. This time the p-value (at 0.073) was greater than alpha, the critical statistical significance level. This means that if the means of the two datasets were indeed the same, 7.3% of the random samples would have the same mean. Given this, we cannot reject the null hypothesis that they are the same, ie they are probably not different.
+- I compared the average user ratings of the Xbox One and the PC platforms to test if they are the same. This was a 2 sided test with data from two independent data sources. I found the p-value to be very small, which meant that if the means of the two datasets were indeed the same, only around a 0.000004 of the values would have the same mean. That is, there is a very small probability of them randomly being the same. This probability is low enough to conclude that the null hypothesis can be rejected; that the average user scores of these two platforms are equal.
+- I also compared the average user ratings for the Action and Sports genres to test if they are the same. This time the p-value (at 0.073) was greater than alpha, the critical statistical significance level. This means that if the means of the two datasets were indeed the same, 7.3% of the random samples would have the same mean. Given this, we cannot reject the null hypothesis that they are the same, ie they are probably not different.
