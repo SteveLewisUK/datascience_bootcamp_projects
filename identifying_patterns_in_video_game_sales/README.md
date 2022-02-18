@@ -23,9 +23,9 @@ The objective of this project was to carry out a preliminary analysis of histori
 | NA_sales             | North American sales in USD million |
 | EU_sales             | European sales in USD million       |
 | JP_sales              | Sales in Japan in USD million      |
-| Other_sales  |    (sales in other countries in USD million)    |
-| Critic_Score     |   maximum of 100   |
-| User_Score     |   maximum of 10    |
+| Other_sales  |    Sales in other countries in USD million   |
+| Critic_Score     |   Maximum of 100   |
+| User_Score     |   Maximum of 10    |
 | Rating     |  The Entertainment Software Rating Board (ESRB) evaluates a game's content and assigns an age-based rating such as Teen or Mature   |
 
 There were 16,715 rows in the dataset.  Data for 2016 may be incomplete<br />
@@ -35,7 +35,7 @@ There were 16,715 rows in the dataset.  Data for 2016 may be incomplete<br />
 ***Step 1***: Identifying null values and the distribution of variables; plotting variable distributions\
 ***Step 2***: Exploring strategies to deal with null values; removing rows where necessary. Creating new columns\
 ***Step 3***: Analysed the data as required: pivot tables with resetting index and automating plotting of multiple charts (line graphs, histograms, boxplots)\
-***Step 4***: Plotted scatterplots and produced correlation matrix
+***Step 4***: Plotted scatterplots and produced correlation matrix\
 ***Step 5***: Identified top genres bygeographical regionand produced pie charts\
 ***Step 5***: Hypothesis testing: 2 sided tests with data from two independent data sources (formulate null and alternative hypotheses).<br />
 
