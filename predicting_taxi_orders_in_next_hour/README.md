@@ -1,4 +1,4 @@
-# Predicting Taxi Orders in the Following Hour
+# Forecasting Orders for a Taxi Company
 
 ### Contents
 1. [Objectives](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/predicting_taxi_orders_in_next_hour/README.md#objectives)
