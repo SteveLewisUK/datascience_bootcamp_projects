@@ -32,12 +32,12 @@ There were 16,715 rows in the dataset.  Data for 2016 may be incomplete<br />
 
 
 ### Method and Tools Used
-***Step 1***: Identifying null values and the distribution of variables; plotting variable distributions\
-***Step 2***: Exploring strategies to deal with null values; removing rows where necessary. Creating new columns\
-***Step 3***: Analysed the data as required: pivot tables with resetting index and automating plotting of multiple charts (line graphs, histograms, boxplots)\
+***Step 1***: Identified null values and explored the distribution of the variables; plotted the distribution of the variables\
+***Step 2***: Explored strategies for dealing with the null values; removed rows where necessary. Created new columns\
+***Step 3***: Analysed the data: used pivot tables with reset indexes and automated the plotting of multiple charts (line graphs, histograms, boxplots)\
 ***Step 4***: Plotted scatterplots and produced correlation matrix\
-***Step 5***: Identified top genres bygeographical regionand produced pie charts\
-***Step 5***: Hypothesis testing: 2 sided tests with data from two independent data sources (formulate null and alternative hypotheses).<br />
+***Step 5***: Identified top genres by geographical region and produced pie charts\
+***Step 5***: Hypothesis testing: ran 2 sided tests with data from two independent data sources (formulate null and alternative hypotheses).<br />
 
 
 ### Summary of Key Conclusions
@@ -49,7 +49,7 @@ There were 16,715 rows in the dataset.  Data for 2016 may be incomplete<br />
 
 #### International Research:
   
-- The X360 is the most popular platform in North America and it is the 3rd most popular in the EU, however it does not rank in the top 5 in Japan. The PS2 is popular in all three territories, but the PS3 does not feature in the top 5 in Japan while it does in both North America and the EU. There are two platforms that appear in the top 5 in Japan (SNES and 3DS) which do not appear in the top 5 for North America and the EU Countries.
+- The X360 was the most popular platform in North America and the 3rd most popular in the EU, however it did not rank in the top 5 in Japan. The PS2 was popular in all three territories, but the PS3 did not feature in the top 5 in Japan while it did in both North America and the EU. There are two platforms that appeared in the top 5 in Japan (SNES and 3DS) which did not appear in the top 5 for North America and the EU Countries.
 - In North America and Europe, Action, Sports and Shooter games are the 3 most popular. In Japan the most popular genre is 'Role-Playing' games which do not feature in the top 5 genres of either North America or Europe.
 - Games with the rating 'E' rating (meaning 'Everyone; ie the content is suitable for all ages) are most popular in North America and Europe. In Japan this seems not to be the case as many games with no rating at all (which we have categorised as 'none' sell over 4 times more than games with an 'E' rating.)
 
