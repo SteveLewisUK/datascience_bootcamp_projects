@@ -4,7 +4,7 @@
 1. [Objectives](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/identifying_patterns_in_video_game_sales/README.md#objectives)
 2. [Data](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/identifying_patterns_in_video_game_sales/README.md#data)
 3. [Method and Tools Used](https://github.com/SteveLewisUK/datascience_bootcamp_projects/tree/main/identifying_patterns_in_video_game_sales#method-and-tools-used)
-4. [Conclusions](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/identifying_patterns_in_video_game_sales/README.md#conclusions)<br />
+4. [Conclusions](https://github.com/SteveLewisUK/datascience_bootcamp_projects/blob/main/identifying_patterns_in_video_game_sales/README.md#summary-of-key-conclusions)<br />
 
 
 ### Objectives
