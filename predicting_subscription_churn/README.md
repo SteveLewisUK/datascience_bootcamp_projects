@@ -1,4 +1,4 @@
-# Predicting Subscription Churn for a Telecoms Company
+# Predicting Customer Churn for a Telecoms Company
 
 ### Contents
 1. [Objectives](https://github.com/SteveLewisUK/datascience_bootcamp_projects/tree/main/predicting_subscription_churn#objectives)
