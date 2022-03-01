@@ -44,7 +44,7 @@ The data was contained in 4 separate files, as follows:
 ***Step 2***: Exploratory Data Analysis; investigated and plotted the distribution of monthly charges and contract length for each of the 3 contract types\
 ***Step 3***: Prepared the data for training models: encoded categorical variables using 'One Hot Encoding'; split into training (75%) and validation (25%) sets; examined the balance of the classes and adjusted them using *upsampling*; standardised the scales using *Standard Scaler*\
 ***Step 4***: Trained the following models: a Dummy Classifier; Logistic Regression; Decision Tree Classifier (tuning the 'max_depth' hyperparameter); Random Forest Classifier (tuning the 'n_estimators' hyperparameter); Random Forest Classifier with Cross Validation (optimising the number of folds); LGBM Classifier (varying the num_leaves and max_depth parameters)\
-***Step 5***: Presented Accuracy and ROC SCore for each model. Plotted Confusion Matrix for the model with the highest AUC-ROC.<br />
+***Step 5***: Presented Accuracy and ROC Score for each model. Plotted Confusion Matrix for the model with the highest AUC-ROC.<br />
 
 
 ### Conclusions
