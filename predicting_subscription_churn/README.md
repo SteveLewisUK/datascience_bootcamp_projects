@@ -11,20 +11,20 @@
 The telecom operator Interconnect wanted to be able to forecast client churn. If it was discovered that a user was planning to leave, they would be offered promotional codes and special plan options.
 
 Interconnect mainly provides two types of services:
-1.	Landline Communications; where phones can be connected to several lines simultaneously.
+1.	Landline Communications, where phones can be connected to several lines simultaneously.
 2.	Internet Connectivity. The network can be set up via a telephone line (DSL, digital subscriber line) or through a fiber optic cable.
 
 Other services the company provides include:
-- Internet security: antivirus software (DeviceProtection) and a malicious website blocker (OnlineSecurity)
-- A dedicated technical support line (TechSupport)
-- Cloud file storage and data backup (OnlineBackup)
-- TV streaming (StreamingTV) and a movie directory (StreamingMovies)
+- Internet Security: Antivirus software and a malicious website blocker
+- A dedicated technical support line
+- Cloud file storage and data backup
+- TV and movie streaming.
 
-Clients choose to pay monthly or sign a 1- or 2-year contract. They can use various payment methods and receive an electronic invoice after a transaction.
+Clients has 3 payment options: Pay Monthly or sign a 1- or 2-year contract. They could use various payment methods and receive an electronic invoice after a transaction.
 
 Interconnect's marketing team collected customer data including personal information and information about their plans and contracts. 
 
-The objective of this project was to use that data to train and compare models to forecast users as likely to churn or not. Models were to be measured by their Accuracy and their AUC-ROC Score.<br />
+The objective of this project was to use the company's data to train and compare models to forecast whether users were likely to churn or not. Models were to be rated and compared according to their Accuracy and their AUC-ROC Scores.<br />
 
 
 ### Data
