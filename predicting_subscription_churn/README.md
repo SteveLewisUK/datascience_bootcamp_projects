@@ -32,10 +32,10 @@ The data was contained in 4 separate files, as follows:
 
 |**File** | **Description** | No of Rows | 
 |:------------- | :----------| :----------:|
-|Contract Information | included Contract Start Date, Contract End Date, Contract Type and Monthly Charges| 7043 |
-|Client's Personal Data | included demographic information| 7043 |
-|Internet Services | Information about the Internet services consumed by customers| 5517 |
-|Telephone Services | Information about the Telephone services consumed by customers| 6361 |
+|Contract Information | Included Contract Start Date, Contract End Date, Contract Type and Monthly Charges| 7043 |
+|Client's Personal Data | Included Customer Demographic Information| 7043 |
+|Internet Services | Information about the Internet services consumed by Customers| 5517 |
+|Telephone Services | Information about the Telephone services consumed by Customers| 6361 |
 <br />
 
 
