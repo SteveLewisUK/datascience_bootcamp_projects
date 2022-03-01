@@ -1,10 +1,10 @@
 # Predicting Subscription Churn for a Telecoms Company
 
 ### Contents
-1. [Objectives]()
-2. [Data]()
-3. [Method and Tools Used]()
-4. [Conclusions]()<br />
+1. [Objectives](https://github.com/SteveLewisUK/datascience_bootcamp_projects/tree/main/predicting_subscription_churn#objectives)
+2. [Data](https://github.com/SteveLewisUK/datascience_bootcamp_projects/tree/main/predicting_subscription_churn#data)
+3. [Method and Tools Used](https://github.com/SteveLewisUK/datascience_bootcamp_projects/tree/main/predicting_subscription_churn#method-and-tools-used)
+4. [Conclusions](https://github.com/SteveLewisUK/datascience_bootcamp_projects/tree/main/predicting_subscription_churn#conclusions)<br />
 
 
 ### Objectives
