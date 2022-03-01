@@ -31,7 +31,7 @@ The objective of this project was to use that data to train and compare models t
 The data was contained in 4 separate files, as follows:
 
 |**File** | **Description** | No of Rows | 
-|:------------- | :----------|
+|:------------- | :----------| :----------|
 |Contract Information | included Contract Start Date, Contract End Date, Contract Type and Monthly Charges| 7043 |
 |Client's Personal Data | included demographic information| 7043 |
 |Internet Services | Information about the Internet services consumed by customers| 5517 |
