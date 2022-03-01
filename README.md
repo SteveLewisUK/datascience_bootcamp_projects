@@ -6,7 +6,7 @@ This repository contains a selection of my projects from the Practicum by Yandex
 |**Project Folder 1** | predicting_subscription_churn|
 |:------------- | :----------|
 |Project Description| To predict likely customer churn at a Telecoms Company|
-|Project Type| Machine Learning (classification) with Gradient Boosting|
+|Project Type| Machine Learning (Classification) with Gradient Boosting|
 |Key Techniques and Models Used| Date Parsing; One Hot Encoding; Upsampling (Balancing Classes); Standardised Scales; Logistic Regression; Decision Tree Classifier; Random Forest Classifier ; Cross Validation; Gradient Boosting; LGBM Classifier; Measuring Accuracy and AUC ROC; Confusion Matrix|
 |Folder Contains| predicting_subscription_churn_in_telecoms.ipynb<br /> README.md|
 <br />
@@ -14,7 +14,7 @@ This repository contains a selection of my projects from the Practicum by Yandex
 |**Project Folder 2** | predicting_used_car_values|
 |:------------- | :----------|
 |Project Description| To measure the speed and quality of predictions of the market value of used cars|
-|Project Type| Machine Learning (regression) with Gradient Boosting|
+|Project Type| Machine Learning (Regression) with Gradient Boosting|
 |Key Techniques and Models Used| One Hot Encoding; Ordinal Encoding; Linear Regression; Random Forest Regression; Decision Tree Regression; Gradient Boosting; LGBMRegressor; XGBoost; CatBoost; Plotting the importance of features; Measuring RMSE|
 |Folder Contains| predicting_used_car_values.ipynb<br /> README.md|
 <br />
@@ -37,7 +37,7 @@ This repository contains a selection of my projects from the Practicum by Yandex
 
 |**Project Folder 5** | identifying_patterns_in_video_game_sales|
 |:------------- | :----------|
-|Project Description| To identify patterns that determine whether a game succeeds or not|
+|Project Description| To identify patterns that determine whether a video game will succeed or not|
 |Project Type|Data Analytics and Statistical Hypothesis Testing|
 |Key Techniques and Models Used| Exporatory data analysis and data visualisation (Histograms, Bar charts, Line graphs, Boxplots, Scatterplots, Pie charts); Pivot tables with reset indexes; Automation of plotting using for-loops; Hypothesis Testing: 2 sided tests with data from two independent data sources|
 |Folder Contains| identifying_patterns_in_video_game_sales.ipynb<br /> README.md|
