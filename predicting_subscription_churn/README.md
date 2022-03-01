@@ -30,17 +30,13 @@ The objective of this project was to use that data to train and compare models t
 ### Data
 The data was contained in 4 separate files, as follows:
 
-Here's the description of selected fields:
-|**File** | **Description** |
+|**File** | **Description** | No of Rows | 
 |:------------- | :----------|
-|Contract Information | included Contract Start Date, Contract End Date, Contract Type and Monthly Charges|
-|Client's personal data | included demographic information|
-|Internet services | Information about Internet services consumed|
-|telephone services | Information about telephone services consumed|
-
-
-
-There were 47,331 rows in the dataset.<br />
+|Contract Information | included Contract Start Date, Contract End Date, Contract Type and Monthly Charges| 7043 |
+|Client's Personal Data | included demographic information| 7043 |
+|Internet Services | Information about the Internet services consumed by customers| 5517 |
+|Telephone Services | Information about the Telephone services consumed by customers| 6361 |
+<br />
 
 
 ### Method and Tools Used
