@@ -20,7 +20,7 @@ Other services the company provides include:
 - Cloud file storage and data backup
 - TV and movie streaming.
 
-Clients has 3 payment options: Pay Monthly or sign a 1- or 2-year contract. They could use various payment methods and receive an electronic invoice after a transaction.
+Clients had 3 payment options: Pay Monthly or sign a 1- or 2-year contract. They could use various payment methods and receive an electronic invoice after a transaction.
 
 Interconnect's marketing team collected customer data including personal information and information about their plans and contracts. 
 
